@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: ScriptSummariesSettings
   m_EditorClassIdentifier: 
   ScanDirectories:
-  - {fileID: 102900000, guid: 7b30cc008f60c8248afe61f16f36c865, type: 3}
-  - {fileID: 102900000, guid: d0d9d422bacd4844ba9a718b657bdbf7, type: 3}
+  - {fileID: 102900000, guid: 4aed1df3464f55d428ababf4fa457403, type: 3}
+  AutoGenerateOnReload: 1
+  TooltipLineLength: 0
+  EnableDebugLogging: 1
